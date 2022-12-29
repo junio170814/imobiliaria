@@ -27,8 +27,48 @@ ul li {
     background-color: black;
 }
 
+.final {
+    display: flex;
+    justify-content: space-between;
+}
+
 .formulario {
     color: aliceblue;
     text-align: center;
     font-size: 30px;
+}
+
+.casa01 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 70px;
+    color: yellow;
+    font-size: large;
+}
+
+.aluguel {
+    font-size: 100px;
+    text-align: center;
+}
+
+.fotoAluguel {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+}
+
+.fotoAluguel h1 {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.visita {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
 }
